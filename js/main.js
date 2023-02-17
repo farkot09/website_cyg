@@ -84,3 +84,6 @@
     
 })(jQuery);
 
+//crea un reducer de React
+
+
